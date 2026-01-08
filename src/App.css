@@ -10,11 +10,6 @@ body {
   padding: 30px;
 }
 
-/* Header */
-.header {
-  margin-bottom: 30px;
-}
-
 /* Cards */
 .card {
   background-color: #ffffff;
@@ -23,25 +18,4 @@ body {
   width: 300px;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Buttons */
-.buttons button {
-  margin: 5px;
-  padding: 8px 14px;
-  border: none;
-  border-radius: 4px;
-  background-color: #1976d2;
-  color: white;
-  cursor: pointer;
-}
-
-.buttons button:hover {
-  background-color: #145ca8;
-}
-
-/* Footer */
-.footer {
-  margin-top: 40px;
-  color: #666;
 }
